@@ -7,3 +7,4 @@ test_results/
 playwright-report/
 __pycache__/
 *.pyc
+package-lock.json
